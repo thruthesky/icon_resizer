@@ -2,6 +2,8 @@
 
 Simple and configurable icon resize animation.
 
+![Icon Resizer](https://raw.githubusercontent.com/thruthesky/icon_resizer/main/icon_resizer.gif)
+
 ```dart
 IconResizer(
   icon: null,
@@ -26,4 +28,3 @@ multiple Flutter or Dart projects.
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
-# icon_resizer

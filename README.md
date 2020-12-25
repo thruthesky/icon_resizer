@@ -1,6 +1,20 @@
-# icon_resizer
+# Icon Resizer
 
-A new Flutter package project.
+Simple and configurable icon resize animation.
+
+```dart
+IconResizer(
+  icon: null,
+  resizes: [
+    IconResize(
+        icon: Icons.notifications, size: 24, duration: 100),
+    IconResize(
+        icon: Icons.notifications_active,
+        size: 24,
+        duration: 100),
+  ],
+),
+```
 
 ## Getting Started
 

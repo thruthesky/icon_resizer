@@ -1,6 +1,6 @@
 # Icon Resizer
 
-Simple and configurable icon resize animation.
+Simple and highly configurable icon resize animation with icon size, color, duration.
 
 ![Icon Resizer](https://raw.githubusercontent.com/thruthesky/icon_resizer/main/icon_resizer.gif)
 

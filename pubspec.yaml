@@ -1,7 +1,7 @@
 name: icon_resizer
 description: Simple and highly configurable icon resize animation with icon size, color, duration.
 version: 0.0.1
-homepage:
+homepage: https://github.com/thruthesky/icon_resizer
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
